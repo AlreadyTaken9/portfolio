@@ -1,8 +1,5 @@
 <h1 align="center">Portfolio Template For Developers</h1>
 
-<div align="center">
-<img src="./src/img/docs/demo.gif" width="600px">
-</div> <br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite&logoColor=8B73FE"></img>
